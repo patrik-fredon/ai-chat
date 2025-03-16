@@ -52,7 +52,7 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/yourusername/ai-chat.git
+   git clone https://github.com/patrik-fredon/ai-chat.git
    ```
 
 2. **Navigate to the Project Directory**
